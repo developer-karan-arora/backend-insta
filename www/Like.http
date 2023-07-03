@@ -1,0 +1,9 @@
+
+
+
+POST http://localhost:3100/post/like HTTP/1.1
+Content-Type: application/json
+Authorization: token
+{
+    "userId":"89439"
+}
